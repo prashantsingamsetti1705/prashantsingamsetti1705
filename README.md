@@ -21,6 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantsingamsetti&show_icons=true&locale=en" alt="prashantsingamsetti" /></p>
 
-<p><img align="center" src="![WhatsApp Image 2025-01-29 at 01 27 25_4de1f151](https://github.com/user-attachments/assets/56788a8f-aa7b-4ec1-a656-1c0669939900)
-&" alt="prashantsingamsetti" /></p>
+<p><img align="center" src="https://ibb.co/LDR9kVMS" /></p>
 
