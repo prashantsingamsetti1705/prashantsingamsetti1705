@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantsingamsetti&show_icons=true&locale=en&layout=compact" alt="prashantsingamsetti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantsingamsetti&show_icons=true&locale=en" alt="prashantsingamsetti" /></p>
+<p>&nbsp;<img align="center" src="https://ibb.co/LDR9kVMS" alt="prashantsingamsetti" /></p>
 
 <p><img align="center" src="https://ibb.co/LDR9kVMS" /></p>
 
