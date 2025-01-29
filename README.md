@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRASHANT SINAGAMSETTI</h1>
 <h3 align="center">A self-motivated and passionate individual, I am a dedicated fresher seeking an opportunity to contribute to a dynamic organization where I can tackle challenge</h3>
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/coding-concept-illustration_6572420.htm#fromView=keyword&page=1&position=11&uuid=dfb5e089-10cf-4aed-a331-d8b9aaa43046&query=Cartoon+Developer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsingamsetti1705&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsingamsetti1705" /> </p>
 
