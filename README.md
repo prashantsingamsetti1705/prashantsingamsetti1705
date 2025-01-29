@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PYTHON,NUMPY,PANDAS,MATPLOTLIB,HTML,CSS,JavaScript,DJANGO,FLASK,RESTAPI**
 
-- 📫 How to reach me **prashantsingamsetti1705@gmail.com,84660266690**
+- 📫 How to reach me **prashantsingamsetti1705@gmail.com,8466026990**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
