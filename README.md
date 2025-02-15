@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRASHANT SINAGAMSETTI</h1>
 <h3 align="center">A self-motivated and passionate individual, I am a dedicated fresher seeking an opportunity to contribute to a dynamic organization where I can tackle challenge</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsingamsetti1705&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsingamsetti1705" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantsingamsetti1705" alt="prashantsingamsetti1705" /></a> </p>
