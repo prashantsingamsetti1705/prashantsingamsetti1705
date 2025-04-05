@@ -21,13 +21,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantsingamsetti1705&show_icons=true&locale=en" alt="prashantsingamsetti1705" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsingamsetti1705&" alt="prashantsingamsetti1705" /></p>
-
+<h2>my details</h2>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prashant Singamsetti - Portfolio</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f4f9; color: #333;">
     <div style="max-width: 800px; margin: 20px auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
