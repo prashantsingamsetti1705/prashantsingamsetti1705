@@ -27,13 +27,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prashant Singamsetti - Portfolio</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f4f9; color: #333;">
     <div style="max-width: 800px; margin: 20px auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
         <header style="text-align: center; margin-bottom: 20px;">
             <h1 style="margin: 0; font-size: 2em; color: #222;">Prashant Singamsetti</h1>
             <p>📞 +91 8466026990 | 📧 prashantsingamsetti1705@gmail.com</p>
-            <p><a href="#" style="text-decoration: none; color: #007BFF;">GitHub</a> | <a href="#" style="text-decoration: none; color: #007BFF;">LinkedIn</a> | <a href="#" style="text-decoration: none; color: #007BFF;">Portfolio</a></p>
+            <p>
+                <a href="https://github.com/prashantsingamsetti1705" style="text-decoration: none; color: #007BFF;">GitHub</a> | 
+                <a href="https://www.linkedin.com/in/prashant-singamsetti-2894a7268/" style="text-decoration: none; color: #007BFF;">LinkedIn</a> | 
+                <a href="https://prashantsingamsetti-portfolio.netlify.app/" style="text-decoration: none; color: #007BFF;">Portfolio</a>
+            </p>
         </header>
         <section>
             <h2 style="border-bottom: 2px solid #007BFF; margin-bottom: 10px; padding-bottom: 5px; color: #007BFF;">About Me</h2>
