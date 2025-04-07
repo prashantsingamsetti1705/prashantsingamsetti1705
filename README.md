@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRASHANT SINAGAMSETTI</h1>
-<p align="center">I am a self-motivated and enthusiastic fresher, passionate about contributing to a dynamic organization...</p>
+<p align="center">I am a self-motivated and enthusiastic fresher.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantsingamsetti1705&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsingamsetti1705" /> </p>
 
