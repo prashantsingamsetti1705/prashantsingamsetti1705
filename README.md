@@ -128,7 +128,10 @@
     <a href="https://render.com/" target="_blank">
     <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
 </a>
-
+<a> 
+<a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+</a>
 </p>
 
 
