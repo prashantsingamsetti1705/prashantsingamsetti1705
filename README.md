@@ -27,6 +27,10 @@
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
+## Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantsingamsetti1705&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingamsetti1705&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 
 ---
 
