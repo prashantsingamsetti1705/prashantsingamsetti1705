@@ -2,7 +2,7 @@
 <p align="center">
   <img style="width:8rem; height:auto" src="https://backiee.com/static/wallpapers/1920x1080/396529.jpg"/>
 </p>
-<h1 align="center">Hi, I'm PrashantSingamsetti<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm PrashantSingamsetti😉<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h1 align="center">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=007bff,e91e63&center=true&vCenter=true&width=900&height=100&lines=I'm+Prashant+Singamsetti!">
