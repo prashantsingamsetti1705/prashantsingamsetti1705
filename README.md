@@ -99,11 +99,19 @@
 
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend/API</h3>
 <p align="center">
 
 <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</a>
+
+<a href="https://www.django-rest-framework.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </a>
 
 </p>
