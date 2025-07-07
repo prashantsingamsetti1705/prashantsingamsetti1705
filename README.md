@@ -232,11 +232,10 @@
     alt="example" />
 </p>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Lalith514" alt="visitor badge"/>       
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/prashantsingamsetti1705/count.svg" />
 </p>
-
 [![prashantsingamsetti1705's GitHub | Stats](https://stats.quine.sh/prashantsingamsetti1705/github?theme=dark)](https://quine.sh)
 
 [![prashantsingamsetti1705's GitHub | Languages Over Time](https://stats.quine.sh/prashantsingamsetti1705/languages-over-time?theme=dark)](https://quine.sh)
