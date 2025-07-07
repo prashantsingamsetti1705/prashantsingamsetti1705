@@ -236,11 +236,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/prashantsingamsetti1705/count.svg" />
 </p>
-[![prashantsingamsetti1705's GitHub | Stats](https://stats.quine.sh/prashantsingamsetti1705/github?theme=dark)](https://quine.sh)
 
-[![prashantsingamsetti1705's GitHub | Languages Over Time](https://stats.quine.sh/prashantsingamsetti1705/languages-over-time?theme=dark)](https://quine.sh)
-
-Credit: [prashantsingamsetti1705](https://github.com/prashantsingamsetti1705)
 
 
 
